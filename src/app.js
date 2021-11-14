@@ -1,9 +1,9 @@
-console.log("Merhaba Kodlama.io")
+// console.log("Merhaba Kodlama.io")
 
-let dolarDun = 9.20
-let dolarBugun = 9.30
+// let dolarDun = 9.20
+// let dolarBugun = 9.30
 
-console.log(dolarDun)
+// console.log(dolarDun)
 
 // array 
 
