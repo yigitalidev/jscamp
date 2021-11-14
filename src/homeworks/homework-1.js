@@ -8,7 +8,7 @@ function findPrime(...numbers) {
         }
     }
 
-    if (isPrime==0 && numbers[i] != 2) {
+    if (isPrime==0 && numbers[i] != 1) {
         console.log(numbers[i] + " Asaldır")
     }else {
         console.log(numbers[i] + " Asal Değildir")

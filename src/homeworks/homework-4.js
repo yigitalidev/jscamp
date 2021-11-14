@@ -7,7 +7,7 @@ for (let i = 2; i < 1000; i++) {
         }
     }
 
-    if(primeNums == 0 && i!=2) {
+    if(primeNums == 0 && i!=1) {
         console.log( i + " asal sayıdır");
     }
 }
